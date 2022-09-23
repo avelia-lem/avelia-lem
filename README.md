@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi people of Github! 🌱
+
+# I'm an artist, she/they and coder, Some projects are private until I consider publishing it.
+Currently learning about FrontDev!
 
 <!--
 **avelia-lem/avelia-lem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
